@@ -15,3 +15,7 @@ The ".expo" folder is created when an Expo project is started using "expo start"
 No, you should not share the ".expo" folder. It does not contain any information that is relevant for other developers working on the project, it is specific to your machine.
 
 Upon project creation, the ".expo" folder is already added to your ".gitignore" file.
+
+To visit the Linkedin post 
+Click on the Link
+https://www.linkedin.com/posts/harsha-vardhini-6a82442ba_kihacks-hackathon-winners-activity-7175684310400667648-KTzt?utm_source=share&utm_medium=member_ios&rcm=ACoAAEyQ2uABdk1lLdZ3dtX2jDOubJe1OvvKoJw.
